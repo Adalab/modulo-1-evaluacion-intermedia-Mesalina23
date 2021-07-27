@@ -1,0 +1,15 @@
+h1 {
+  width: 200px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  width: 100vw;
+  height: 100vh;
+  border: 2px solid black;
+  background-color: #3cdbc0;
+  color: white;
+}
